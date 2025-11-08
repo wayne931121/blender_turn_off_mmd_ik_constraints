@@ -21,6 +21,8 @@ For More Infomation, Please Visit:
 
 About Me:
     Hi, I'am a student currect study in National Yunlin University of Science and Technology.
+    Youtube https://www.youtube.com/@%E5%B0%8F%E8%BE%B0%E7%9A%84%E7%AD%86%E8%A8%98%E6%9C%AC
+    Spotify https://open.spotify.com/artist/02lg6jqWmoc4BOTW2WGMzv?si=jwpzOggpSQ6Qq4VVa2io3A
 """
 import bpy
 
